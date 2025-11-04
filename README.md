@@ -78,5 +78,7 @@ curl -s https://install.zerotier.com | sudo bash
 ```
 zerotier-cli join [Network id]
 ```
+
+
 Contoh
 zerotier-cli join s6dbfjsdklal
