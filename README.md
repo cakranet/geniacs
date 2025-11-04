@@ -80,5 +80,5 @@ zerotier-cli join [Network id]
 ```
 
 
-Contoh
+Contoh : 
 zerotier-cli join s6dbfjsdklal
