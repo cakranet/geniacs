@@ -69,3 +69,14 @@ sudo mongorestore --db=genieacs --drop genieacs-backup/genieacs
 Kontribusi selalu diterima! Silakan buat pull request atau laporkan issue jika menemukan bug.
 
 https://wa.me/6285330487999?text=Halo
+
+Konfigurasi Zerotier VPS
+
+```
+curl -s https://install.zerotier.com | sudo bash
+```
+```
+zerotier-cli join [Network id]
+```
+Contoh
+zerotier-cli join s6dbfjsdklal
