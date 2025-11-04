@@ -17,7 +17,7 @@ apt install git curl -y
 ```
 
 ```
-git clone https://github.com/AMDStore7807/acs
+git clone https://github.com/cakranet/geniacs
 ```
 
 ```
